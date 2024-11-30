@@ -1,4 +1,4 @@
-# Help Desk Ticket: My internet won-t work!
+# Help Desk Ticket: My internet won't work!
 
 <h2>Description</h2>
 In this practical help desk ticket, a user states that their internet is not working. Given the details of the ip address, subnet mask, and gateway address, here are the steps I woudld take by applying the OSI model to resolve this ticket.
