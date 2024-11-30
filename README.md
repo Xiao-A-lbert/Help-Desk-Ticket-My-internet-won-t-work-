@@ -45,24 +45,30 @@ Next use tracert to see where connectivity might be dropped.
 Finally we can use ipconfig release/renew to release/renew the DHCP and flush/register DNS to re-register the DNS.
 
 ![OSI Layer 3](https://github.com/user-attachments/assets/9298a0a6-cf6f-4e62-b504-9e98c94de178)
+
 <br />
 <br />
 A Layer 4 solution might be use netstat on a linux VM to verify that the correct ports are open and they're being attached to the right network interface.
 
 ![OSI Layer 4](https://github.com/user-attachments/assets/fa1e5ec8-19cd-4fa8-bf3b-bb909d9c86fa)
+
 <br />
 <br />
 Layer 5 no troubleshooting required.
 
 ![OSI Layer 5](https://github.com/user-attachments/assets/b1015e2f-0d80-495e-9c9d-24b4c3ced6d6)
+
 <br />
 <br />
 A Layer 6 solution might be check if the certificates being used are correct in our browser. This might be due to internal company websites or self-signed certificates. 
 
 ![OSI Layer 6](https://github.com/user-attachments/assets/773d2a03-ca7a-42d6-a879-2ad86903e683)
+
 <br />
 <br />
 A Layer 7 solution might be to check the browser console for errors, clearing browser cache, or having the user use a different browser. 
 
-![OSI Layer 7](https://github.com/user-attachments/assets/aad9a38f-5f48-465f-92ff-9994e05ece03)<br />
+![OSI Layer 7](https://github.com/user-attachments/assets/aad9a38f-5f48-465f-92ff-9994e05ece03)
+
+<br />
 <br />
